@@ -1,6 +1,12 @@
 import java.util.Scanner;
 
-
+// echo "# Java" >> README.md
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin https://github.com/Tiago-Nascimento-Hilario/Java.git
+// git push -u origin main
 
 public class App {
     public static void main(String[] args) throws Exception {
