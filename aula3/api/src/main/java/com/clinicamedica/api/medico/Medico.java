@@ -46,6 +46,12 @@ public class Medico {
         this.endereco = new Endereco(dados.endereco());
     }
 
+    public void atualizarInformacoes(DadosAtualizarCadastroMedico dados) {
+        if(dados.nome() != null){
+            this.nome = dados.nome();
+        }
+    }
+
     
 
 }
