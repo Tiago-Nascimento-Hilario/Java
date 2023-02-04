@@ -20,9 +20,9 @@ public class App {
     public static String verficarIdade(Integer idade){
         String resultado;
         if (idade <= 5) {
-            resultado = "ã";
+            resultado = "Ç";
         }else{
-            resultado = "ã";
+            resultado = "Ç";
         }
         return resultado;
     }
